@@ -82,6 +82,10 @@ Run the cells sequentially and allow access to your webcam when prompted.
 
 The system successfully detects facial landmarks and identifies potential signs of drowsiness through eye closure and yawning using real-time webcam input.
 
+## images
+<img width="800" height="571" alt="eyes_mouth_landmarks" src="https://github.com/user-attachments/assets/690e0040-5e60-4589-93eb-65ec2f299e0b" />
+
+
 ## Demo
 
 
